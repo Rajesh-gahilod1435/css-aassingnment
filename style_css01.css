@@ -1,0 +1,37 @@
+h1{
+    color: brown;
+}
+h3{
+    color: brown;
+    font-style: italic;
+}
+.one{
+    color: blueviolet;
+    line-height: 50px;
+}
+.textinherit{
+    font-style:inherit;
+    
+}
+.bcolor{
+    background-color: yellow;
+    font-weight: bold;
+}
+.itailc{
+    font-style: italic;
+    text-decoration: underline;
+}
+.letter-spacing{
+    letter-spacing: 5px;
+}
+.b2color{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+    font-size: 26px;
+}
